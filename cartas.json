@@ -1,0 +1,148 @@
+{
+    "cartas": [
+        {
+            "id": 1,
+            "pontos": 1,
+            "img": "cartas/j_ouros.png",
+            "nome": "Valete de Ouros"
+        },
+        {
+            "id": 2,
+            "pontos": 1,
+            "img": "cartas/j_espadas.png",
+            "nome": "Valete de Espadas"
+        },
+        {
+            "id": 3,
+            "pontos": 1,
+            "img": "cartas/j_copas.png",
+            "nome": "Valete de Copas"
+        },
+        {
+            "id": 4,
+            "pontos": 1,
+            "img": "cartas/j_paus.png",
+            "nome": "Valete de Paus"
+        },
+        {
+            "id": 5,
+            "pontos": 2,
+            "img": "cartas/q_ouros.png",
+            "nome": "Dama de Ouros"
+        },
+        {
+            "id": 6,
+            "pontos": 2,
+            "img": "cartas/q_espadas.png",
+            "nome": "Dama de Espadas"
+        },
+        {
+            "id": 7,
+            "pontos": 2,
+            "img": "cartas/q_copas.png",
+            "nome": "Dama de Copas"
+        },
+        {
+            "id": 8,
+            "pontos": 2,
+            "img": "cartas/q_paus.png",
+            "nome": "Dama de Paus"
+        },
+        {
+            "id": 9,
+            "pontos": 3,
+            "img": "cartas/k_ouros.png",
+            "nome": "Rei de Ouros"
+        },
+        {
+            "id": 10,
+            "pontos": 3,
+            "img": "cartas/k_espadas.png",
+            "nome": "Rei de Espadas"
+        },
+        {
+            "id": 11,
+            "pontos": 3,
+            "img": "cartas/k_copas.png",
+            "nome": "Rei de Copas"
+        },
+        {
+            "id": 12,
+            "pontos": 3,
+            "img": "cartas/k_paus.png",
+            "nome": "Rei de Paus"
+        },
+        {
+            "id": 13,
+            "pontos": 4,
+            "img": "cartas/a_ouros.png",
+            "nome": "Ás de Ouros"
+        },
+        {
+            "id": 14,
+            "pontos": 4,
+            "img": "cartas/a_espadas.png",
+            "nome": "Ás de Espadas"
+        },
+        {
+            "id": 15,
+            "pontos": 4,
+            "img": "cartas/a_copas.png",
+            "nome": "Ás de Copas"
+        },
+        {
+            "id": 16,
+            "pontos": 4,
+            "img": "cartas/a_paus.png",
+            "nome": "Ás de Paus"
+        },
+        {
+            "id": 17,
+            "pontos": 5,
+            "img": "cartas/2_ouros.png",
+            "nome": "Dois de Ouros"
+        },
+        {
+            "id": 18,
+            "pontos": 5,
+            "img": "cartas/2_espadas.png",
+            "nome": "Dois de Espadas"
+        },
+        {
+            "id": 19,
+            "pontos": 5,
+            "img": "cartas/2_copas.png",
+            "nome": "Dois de Copas"
+        },
+        {
+            "id": 20,
+            "pontos": 5,
+            "img": "cartas/2_paus.png",
+            "nome": "Dois de Paus"
+        },
+        {
+            "id": 21,
+            "pontos": 6,
+            "img": "cartas/3_ouros.png",
+            "nome": "Três de Ouros"
+        },
+        {
+            "id": 22,
+            "pontos": 6,
+            "img": "cartas/3_espadas.png",
+            "nome": "Três de Espadas"
+        },
+        {
+            "id": 23,
+            "pontos": 6,
+            "img": "cartas/3_copas.png",
+            "nome": "Três de Copas"
+        },
+        {
+            "id": 24,
+            "pontos": 6,
+            "img": "cartas/3_paus.png",
+            "nome": "Três de Paus"
+        }
+    ]
+}
