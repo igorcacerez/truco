@@ -3,145 +3,145 @@
         {
             "id": 1,
             "pontos": 1,
-            "img": "cartas/j_ouros.png",
+            "img": "J_ouros",
             "nome": "Valete de Ouros"
         },
         {
             "id": 2,
             "pontos": 1,
-            "img": "cartas/j_espadas.png",
+            "img": "J_espadas",
             "nome": "Valete de Espadas"
         },
         {
             "id": 3,
             "pontos": 1,
-            "img": "cartas/j_copas.png",
+            "img": "J_copas",
             "nome": "Valete de Copas"
         },
         {
             "id": 4,
             "pontos": 1,
-            "img": "cartas/j_paus.png",
+            "img": "J_paus",
             "nome": "Valete de Paus"
         },
         {
             "id": 5,
             "pontos": 2,
-            "img": "cartas/q_ouros.png",
+            "img": "Q_ouros",
             "nome": "Dama de Ouros"
         },
         {
             "id": 6,
             "pontos": 2,
-            "img": "cartas/q_espadas.png",
+            "img": "Q_espadas",
             "nome": "Dama de Espadas"
         },
         {
             "id": 7,
             "pontos": 2,
-            "img": "cartas/q_copas.png",
+            "img": "Q_copas",
             "nome": "Dama de Copas"
         },
         {
             "id": 8,
             "pontos": 2,
-            "img": "cartas/q_paus.png",
+            "img": "Q_paus",
             "nome": "Dama de Paus"
         },
         {
             "id": 9,
             "pontos": 3,
-            "img": "cartas/k_ouros.png",
+            "img": "K_ouros",
             "nome": "Rei de Ouros"
         },
         {
             "id": 10,
             "pontos": 3,
-            "img": "cartas/k_espadas.png",
+            "img": "K_espadas",
             "nome": "Rei de Espadas"
         },
         {
             "id": 11,
             "pontos": 3,
-            "img": "cartas/k_copas.png",
+            "img": "K_copas",
             "nome": "Rei de Copas"
         },
         {
             "id": 12,
             "pontos": 3,
-            "img": "cartas/k_paus.png",
+            "img": "K_paus",
             "nome": "Rei de Paus"
         },
         {
             "id": 13,
             "pontos": 4,
-            "img": "cartas/a_ouros.png",
+            "img": "A_ouros",
             "nome": "Ás de Ouros"
         },
         {
             "id": 14,
             "pontos": 4,
-            "img": "cartas/a_espadas.png",
+            "img": "A_espadas",
             "nome": "Ás de Espadas"
         },
         {
             "id": 15,
             "pontos": 4,
-            "img": "cartas/a_copas.png",
+            "img": "A_copas",
             "nome": "Ás de Copas"
         },
         {
             "id": 16,
             "pontos": 4,
-            "img": "cartas/a_paus.png",
+            "img": "A_paus",
             "nome": "Ás de Paus"
         },
         {
             "id": 17,
             "pontos": 5,
-            "img": "cartas/2_ouros.png",
+            "img": "2_ouros",
             "nome": "Dois de Ouros"
         },
         {
             "id": 18,
             "pontos": 5,
-            "img": "cartas/2_espadas.png",
+            "img": "2_espadas",
             "nome": "Dois de Espadas"
         },
         {
             "id": 19,
             "pontos": 5,
-            "img": "cartas/2_copas.png",
+            "img": "2_copas",
             "nome": "Dois de Copas"
         },
         {
             "id": 20,
             "pontos": 5,
-            "img": "cartas/2_paus.png",
+            "img": "2_paus",
             "nome": "Dois de Paus"
         },
         {
             "id": 21,
             "pontos": 6,
-            "img": "cartas/3_ouros.png",
+            "img": "3_ouros",
             "nome": "Três de Ouros"
         },
         {
             "id": 22,
             "pontos": 6,
-            "img": "cartas/3_espadas.png",
+            "img": "3_espadas",
             "nome": "Três de Espadas"
         },
         {
             "id": 23,
             "pontos": 6,
-            "img": "cartas/3_copas.png",
+            "img": "3_copas",
             "nome": "Três de Copas"
         },
         {
             "id": 24,
             "pontos": 6,
-            "img": "cartas/3_paus.png",
+            "img": "3_paus",
             "nome": "Três de Paus"
         }
     ]

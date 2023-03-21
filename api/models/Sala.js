@@ -2,30 +2,20 @@ const Sequelize = require('sequelize');
 const db = require('./index.js');
 
 const Sala = db.define('sala', {
-    users: {
+    num_users: {
         type: Sequelize.INTEGER,
         allowNull: false,
         defaultValue: 2,
     },
-    jogo: {
-        type: Sequelize.JSON,
-        allowNull: false,
-        defaultValue: {},
-    },
-    vira: {
+    win: {
         type: Sequelize.INTEGER,
         allowNull: false,
         defaultValue: 0,
     },
-    cartas: {
-        type: Sequelize.JSON,
-        allowNull: false,
-        defaultValue: {},
-    },
-    ativo: {
+    finalizado: {
         type: Sequelize.BOOLEAN,
         allowNull: false,
-        defaultValue: true,
+        defaultValue: false,
     },
 });
 

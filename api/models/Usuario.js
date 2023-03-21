@@ -1,7 +1,7 @@
 const Sequelize = require('sequelize');
 const db = require('./index.js');
 
-const User = db.define('user', {
+const Usuario = db.define('user', {
     nome: {
         type: Sequelize.STRING,
         allowNull: false,
@@ -14,11 +14,6 @@ const User = db.define('user', {
         type: Sequelize.TEXT,
         allowNull: false,
     },
-    online: {
-        type: Sequelize.BOOLEAN,
-        allowNull: false,
-        defaultValue: false,
-    },
     score : {
         type: Sequelize.INTEGER,
         allowNull: false,
@@ -27,8 +22,8 @@ const User = db.define('user', {
 });
 
 // Cria a tabela caso ela não exista
-User.sync({force: false}).then(() => {
+Usuario.sync({force: false}).then(() => {
     console.log('Tabela Usuario criada com sucesso!');
 });
 
-module.exports = User;
+module.exports = Usuario;
