@@ -1,5 +1,4 @@
 const UsuarioService = require('../../services/usuario.service');
-const TokenAdapter = require('../../adapters/token');
 
 /**
  * Método para realizar o login do usuário

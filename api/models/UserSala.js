@@ -1,6 +1,6 @@
 const Sequelize = require('sequelize');
 const db = require('./index.js');
-const Usuario = require('./User.js');
+const Usuario = require('./Usuario.js');
 const Sala = require('./Sala.js');
 
 const UserSala = db.define('user_sala', {
@@ -19,3 +19,5 @@ UserSala.belongsTo(Usuario, {foreignKey: 'id_user'});
 UserSala.sync({force: false}).then(() => {
     console.log('Tabela UserSala criada com sucesso!');
 });
+
+module.exports = UserSala;
