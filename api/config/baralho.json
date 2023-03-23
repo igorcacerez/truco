@@ -1,52 +1,52 @@
 {
     "cartas": [
         {
-            "id": 1,
-            "pontos": 1,
-            "img": "J_ouros",
-            "nome": "Valete de Ouros"
-        },
-        {
-            "id": 2,
-            "pontos": 1,
-            "img": "J_espadas",
-            "nome": "Valete de Espadas"
-        },
-        {
-            "id": 3,
-            "pontos": 1,
-            "img": "J_copas",
-            "nome": "Valete de Copas"
-        },
-        {
-            "id": 4,
-            "pontos": 1,
-            "img": "J_paus",
-            "nome": "Valete de Paus"
-        },
-        {
             "id": 5,
-            "pontos": 2,
+            "pontos": 1,
             "img": "Q_ouros",
             "nome": "Dama de Ouros"
         },
         {
             "id": 6,
-            "pontos": 2,
+            "pontos": 1,
             "img": "Q_espadas",
             "nome": "Dama de Espadas"
         },
         {
             "id": 7,
-            "pontos": 2,
+            "pontos": 1,
             "img": "Q_copas",
             "nome": "Dama de Copas"
         },
         {
             "id": 8,
-            "pontos": 2,
+            "pontos": 1,
             "img": "Q_paus",
             "nome": "Dama de Paus"
+        },
+        {
+            "id": 1,
+            "pontos": 2,
+            "img": "J_ouros",
+            "nome": "Valete de Ouros"
+        },
+        {
+            "id": 2,
+            "pontos": 2,
+            "img": "J_espadas",
+            "nome": "Valete de Espadas"
+        },
+        {
+            "id": 3,
+            "pontos": 2,
+            "img": "J_copas",
+            "nome": "Valete de Copas"
+        },
+        {
+            "id": 4,
+            "pontos": 2,
+            "img": "J_paus",
+            "nome": "Valete de Paus"
         },
         {
             "id": 9,
