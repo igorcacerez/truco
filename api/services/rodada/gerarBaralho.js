@@ -6,6 +6,8 @@
 const gerarBaralho = async () => {
     let baralho = require('../../config/baralho.json');
     baralho = baralho.cartas;
+    
+    // Pega uma carta aleatória para ser a vira
     const vira = baralho.splice(Math.floor(Math.random() * baralho.length), 1)[0];
 
     // Percorre o barralho e adiciona o valor da carta
