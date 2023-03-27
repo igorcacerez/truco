@@ -30,9 +30,12 @@ const alteraRodada = async (req, res) => {
     let usuarioGanhador = await usuarioSalaService.getUsuarioSala(ganhador, rodada.id_sala);
 
     // Atualiza o usuario ganhador
+    let novosPontos = usuarioGanhador.pontos + pontos
     let usuario = {
-        pontos: usuarioGanhador.pontos + pontos
+        placar: novosPontos
     }
+
+    await usuarioSalaService.alteraUsuarioSala(ganhador, rodada.id_sala, usuario);
 };
 
 module.exports = alteraRodada;

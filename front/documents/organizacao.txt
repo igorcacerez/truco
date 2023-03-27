@@ -1,0 +1,56 @@
+src/
+├── components/
+│   ├── Header/
+│   │   ├── Header.jsx
+│   │   ├── Header.test.jsx
+│   │   ├── Header.styles.jsx
+│   │   └── index.jsx
+│   ├── Footer/
+│   │   ├── Footer.jsx
+│   │   ├── Footer.test.jsx
+│   │   ├── Footer.styles.jsx
+│   │   └── index.jsx
+│   └── ...
+├── pages/
+│   ├── Home/
+│   │   ├── Home.jsx
+│   │   ├── Home.test.jsx
+│   │   ├── Home.styles.jsx
+│   │   └── index.jsx
+│   ├── About/
+│   │   ├── About.jsx
+│   │   ├── About.test.jsx
+│   │   ├── About.styles.jsx
+│   │   └── index.jsx
+│   └── ...
+├── services/
+│   ├── api.js
+│   ├── authService.js
+│   ├── userService.js
+│   └── ...
+├── utils/
+│   ├── constants.js
+│   ├── helpers.js
+│   ├── validators.js
+│   └── ...
+├── App.jsx
+├── index.jsx
+├── index.css
+└── ...
+
+
+Explicação:
+
+components/: pasta para armazenar todos os componentes React reutilizáveis. Cada componente é organizado em uma pasta própria com seu arquivo .jsx e arquivos relacionados, como os arquivos de teste e estilos. O arquivo index.jsx na pasta do componente é responsável por exportar o componente, tornando-o acessível em outras partes do projeto.
+
+pages/: pasta para armazenar os componentes React que representam as páginas da aplicação. Cada página é organizada em uma pasta própria com seu arquivo .jsx e arquivos relacionados, como os arquivos de teste e estilos. O arquivo index.jsx na pasta da página é responsável por exportar o componente da página, tornando-o acessível em outras partes do projeto.
+
+services/: pasta para armazenar os serviços que a aplicação utiliza. Um serviço é uma classe ou um módulo que encapsula a lógica de negócios da aplicação e se comunica com recursos externos, como uma API. Cada serviço é implementado em um arquivo próprio e é responsável por executar uma única responsabilidade dentro da aplicação.
+
+utils/: pasta para armazenar as funções utilitárias que a aplicação utiliza. Essas funções são pequenos pedaços de lógica reutilizável que não se encaixam em nenhum serviço específico. Cada função utilitária é implementada em um arquivo próprio e é responsável por executar uma única responsabilidade dentro da aplicação.
+
+App.jsx: o componente raiz da aplicação. Este componente é responsável por definir as rotas da aplicação, configurar as dependências e inicializar a aplicação.
+
+index.jsx: arquivo de entrada da aplicação. Este arquivo é responsável por renderizar o componente raiz (App.jsx) na página HTML.
+
+index.css: arquivo CSS global da aplicação. Este arquivo é responsável por definir o estilo global da aplicação.
